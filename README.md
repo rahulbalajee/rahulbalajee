@@ -17,3 +17,11 @@ https://linkedin.com/in/rahulbalajee
 
 Email  
 rahulbalajee.97@gmail.com
+
+---
+
+## 📊 GitHub Stats
+
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulbalajee&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbalajee&layout=compact&theme=tokyonight)
