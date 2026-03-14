@@ -1,16 +1,78 @@
-## Hi there 👋
+# Hi, I'm Rahul 👋
 
-<!--
-**rahulbalajee/rahulbalajee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Go Backend Engineer with 4+ years of experience building production
+distributed systems, cloud infrastructure and developer tooling.
 
-Here are some ideas to get you started:
+🔹 Golang backend systems  
+🔹 Kubernetes & Terraform  
+🔹 Distributed systems & microservices  
+🔹 Platform engineering  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+### Microservices Starter Kit
+Production-style Go microservice template using hexagonal architecture.
+
+- Clean architecture
+- structured logging
+- graceful shutdown
+- Docker + Kubernetes ready
+
+Repo:  
+https://github.com/rahulbalajee/microservices-starter-kit
+
+---
+
+### LRU Cache (Go)
+Thread-safe LRU cache implementation in Go.
+
+Concepts:
+- hash maps
+- doubly linked lists
+- concurrency-safe design
+
+Repo:  
+https://github.com/rahulbalajee/LRU-cache-go
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+- Go
+- Bash
+- Python
+
+**Cloud / Infrastructure**
+
+- AWS
+- GCP
+- Kubernetes
+- Terraform
+
+**Backend**
+
+- REST APIs
+- Event-driven architectures
+- Worker pools
+- Pub/Sub systems
+
+**DevOps**
+
+- CI/CD
+- Prometheus
+- Grafana
+- Observability
+
+---
+
+## 📫 Contact
+
+LinkedIn  
+https://linkedin.com/in/rahulbalajee
+
+Email  
+rahulbalajee.97@gmail.com
