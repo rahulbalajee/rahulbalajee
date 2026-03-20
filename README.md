@@ -24,4 +24,4 @@ rahulbalajee.97@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbalajee&layout=compact&theme=tokyonight)
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulbalajee&theme=github_dark)
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulbalajee&show_icons=true&theme=tokyonight)
