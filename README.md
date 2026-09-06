@@ -35,6 +35,7 @@ automation rather than relying on manual operations.
 
 | Project | What it shows |
 |---|---|
+| [terraform-eks-platform](https://github.com/rahulbalajee/terraform-eks-platform) | Production-shaped EKS platform — Terraform bootstrap, Argo CD app-of-apps GitOps, Karpenter spot/Graviton capacity, kube-prometheus-stack; CI-validated (terraform validate + kubeconform) |
 | [twin](https://github.com/rahulbalajee/twin) | AI digital twin on serverless AWS — CloudFront, S3, API Gateway, Lambda; Terraform IaC and keyless (OIDC) CI/CD |
 | [microservices-starter-kit](https://github.com/rahulbalajee/microservices-starter-kit) | Go microservices template — Kubernetes, Tilt, local-cluster dev workflow |
 | [bc-vod-urls](https://github.com/rahulbalajee/bc-vod-urls) | Go CLI for live-streaming ops — turns Brightcove live sessions into VOD playback URLs (auth, tokens, URL construction) |
