@@ -3,6 +3,8 @@
 **DevOps / Platform / Infrastructure Engineer** with 5+ years building and operating
 cloud-native platforms across AWS, GCP and Kubernetes.
 
+🌐 **[rahulbalajee.com](https://rahulbalajee.com)** · open to full-time roles and freelance projects
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
@@ -35,6 +37,7 @@ automation rather than relying on manual operations.
 
 | Project | What it shows |
 |---|---|
+| [rahulbalajee.com](https://rahulbalajee.com) | Live portfolio site. Single Go binary (server-rendered templates + TypeScript) on arm64 Lambda behind CloudFront, SES contact form, CloudWatch observability, Terraform with keyless (OIDC) CI/CD |
 | [terraform-eks-platform](https://github.com/rahulbalajee/terraform-eks-platform) | Production-shaped EKS platform — Terraform bootstrap, Argo CD app-of-apps GitOps, Karpenter spot/Graviton capacity, kube-prometheus-stack; CI-validated (terraform validate + kubeconform) |
 | [twin](https://github.com/rahulbalajee/twin) | AI digital twin on serverless AWS — CloudFront, S3, API Gateway, Lambda; Terraform IaC and keyless (OIDC) CI/CD |
 | [microservices-starter-kit](https://github.com/rahulbalajee/microservices-starter-kit) | Go microservices template — Kubernetes, Tilt, local-cluster dev workflow |
@@ -44,4 +47,4 @@ automation rather than relying on manual operations.
 
 ## 📫 Contact
 
-[LinkedIn](https://linkedin.com/in/rahulbalajee) · [rahulbalajee.97@gmail.com](mailto:rahulbalajee.97@gmail.com)
+[rahulbalajee.com](https://rahulbalajee.com) · [LinkedIn](https://linkedin.com/in/rahulbalajee) · [rahulbalajee.97@gmail.com](mailto:rahulbalajee.97@gmail.com)
