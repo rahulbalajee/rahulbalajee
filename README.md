@@ -15,7 +15,7 @@ cloud-native platforms across AWS, GCP and Kubernetes.
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
 
 My work sits at the intersection of infrastructure, platform engineering and software
-engineering — designing reliable production systems, automating operational workflows,
+engineering designing reliable production systems, automating operational workflows,
 improving observability, and building internal platforms and tooling that help
 engineering teams operate at scale. At Brightcove, I work on infrastructure supporting
 high-traffic global live streaming, including multi-CDN systems that have supported
